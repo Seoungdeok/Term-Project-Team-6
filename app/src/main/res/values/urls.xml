@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name = "register">https://tslinard-calendarapp-backend.herokuapp.com/register</string>
+    <string name = "login">https://tslinard-calendarapp-backend.herokuapp.com/login</string>
+</resources>

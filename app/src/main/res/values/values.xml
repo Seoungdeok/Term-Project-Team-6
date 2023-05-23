@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="dark_background" format="reference" />
+    <attr name="light_background" format="reference" />
+    <attr name="backgroundGradient" format="reference" />
+    <attr name="colorActionBar" format="reference" />
+</resources>

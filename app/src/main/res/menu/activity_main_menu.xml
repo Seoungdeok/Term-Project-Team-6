@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addCityMenu"
+        android:icon="@drawable/ic_baseline_add_circle_outline_24"
+        android:title="@string/add_new_city"
+        app:showAsAction="ifRoom"
+        app:iconTint="@color/design_default_color_on_primary" />
+    <item
+        android:id="@+id/themeMenu"
+        android:icon="@drawable/ic_baseline_dark_mode_24"
+        android:title="@string/theme_mode"
+        android:onClick="onThemeClick"
+        app:showAsAction="ifRoom"
+        app:iconTint="@color/design_default_color_on_primary" />
+    <item
+        android:id="@+id/logOutMenu"
+        android:icon="@drawable/ic_baseline_logout_24"
+        android:title="@string/log_out"
+        app:showAsAction="ifRoom"
+        app:iconTint="@color/design_default_color_on_primary" />
+</menu>

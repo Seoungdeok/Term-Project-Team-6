@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Team 6</string>
+    <string name="image_of_the_city">image of the city</string>
+    <string name="add_new_city">Add New City</string>
+    <string name="log_out">Log Out</string>
+    <string name="theme_mode">Theme Mode</string>
+    <string name="google_maps_key">AIzaSyDBlcm5umGwbO8xPO96CGUp-dQ8-Md1isg</string>
+
+    <!-- sharedPreferences strings -->
+    <string name="LOGIN_PREFS">edu.uiuc.PREFS</string>
+    <string name="LOGGEDIN">loggedin</string>
+    <string name="PASSEMAIL">passemail</string>
+    <string name="preference_file_usernames_to_passwords">usernamesToPasswords</string>
+    <string name="preference_file_usernames_to_emails">usernamesToEmails</string>
+    <string name="preference_file_usernames_to_first_names">usernamesToFirstNames</string>
+    <string name="preference_file_usernames_to_last_name">usernamesToLastNames</string>
+    <string name="preference_file_usernames_to_location_ids">usernamesToLocationIDs</string>
+    <string name="preference_file_logged_in_user">loggedInUser</string>
+    <string name="preference_file_all_usernames">allUsernames</string>
+
+    <!-- SignUpFragment strings -->
+    <string name="title">CREATE ACCOUNT</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="user_name_hint">User Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_btn">SIGN UP</string>
+</resources>
